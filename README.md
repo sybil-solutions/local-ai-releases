@@ -16,13 +16,12 @@ The line downloads `local-ai-linux.tar.gz` from the newest release here, checks 
 
 ## Mac
 
-`Local-AI-mac-arm64.dmg` is the app for Apple silicon (macOS 12 or later), signed with a Developer ID and notarized by Apple. Open it and drag Local AI to Applications. Starting a model needs Python 3.11 or newer.
+The Mac app is not in a release yet. When it is, `Local-AI-mac-arm64.dmg` will be the app for Apple silicon (macOS 12 or later), signed with a Developer ID and notarized by Apple.
 
 ## Files in a release
 
 | file | what it is |
 |---|---|
-| `Local-AI-mac-arm64.dmg` | the Mac app |
 | `local-ai-linux.tar.gz` | the Linux files |
 | `local-ai-linux.tar.gz.sha256` | their checksum, which the one-line installer checks |
 | `install.sh` | the one-line installer |
